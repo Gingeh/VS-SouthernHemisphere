@@ -1,10 +1,12 @@
 {
   "type": "Code",
   "name": "SouthernHemisphere",
-  "modid": "southernhemispher",
+  "modid": "southernhemisphere",
   "version": "1.0.0",
   "description": "Spawn in the Southern Hemisphere (in the correct season)",
-  "authors": ["Gingeh"],
+  "authors": [
+    "Gingeh"
+  ],
   "side": "Server",
   "dependencies": {
     "game": "1.22.7"
